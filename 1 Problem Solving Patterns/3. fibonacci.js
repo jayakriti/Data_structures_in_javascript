@@ -8,5 +8,6 @@ function fibonacci(num)
     console.log(a);
 }
 //calling function with different num value
+fibonacci(5);
 fibonacci(8);
 fibonacci(13);
